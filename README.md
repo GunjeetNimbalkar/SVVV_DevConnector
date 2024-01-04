@@ -32,3 +32,8 @@ Welcome to DevConnector, a social network tailored for developers, designed and 
 - Set up the backend architecture.
 - Designed the UI/UX frontend of the website with a glassmorphism style and effective color schemes.
 - Led the development team in creating and implementing the DevConnector project.
+
+### 2. Gunjeet Nimbalkar (Team Member)
+- Creation of Post, Profile API Routes.
+- Setup of React Router and useStates hook.
+- Creation of the Post Model.
