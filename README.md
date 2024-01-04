@@ -1,28 +1,34 @@
-# DevConnector
-A social web-app for developers using MERN.
+# SVVV DevConnector - A Social Network for Developers
+
+Welcome to DevConnector, a social network tailored for developers, designed and implemented using the MERN stack (MongoDB, Express.js, React.js, Node.js). Connect with fellow developers, share your experiences, and stay updated with the latest developments in the tech community.
+
+## Table of Contents
+- [Features](#features)
+- [Contributors](#contributors)
 
 
-# QUICK START
-Add a default.json file in config folder with the following
+## Features
 
+### 1. User Authentication
+- Sign up or log in securely to DevConnector to create your developer profile.
 
-{
-  "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret": "secret",
-  "githubToken": "<yoursecrectaccesstoken>"
-}
+### 2. Profile Customization
+- Add details to your profile, including education, experience, and social links, to showcase your professional journey.
 
+### 3. GitHub Integration
+- Display your top five GitHub repositories by linking your GitHub username to your DevConnector profile.
 
-# install server dependencies
--> npm install
+### 4. Social Interaction
+- Share your updates with the Dev community.
+- Like and comment on posts to engage with other developers.
 
+### 5. Glassmorphism UI/UX Design
+- Enjoy a visually appealing user interface with a glassmorphism design style.
+- The frontend of the website is meticulously crafted for an enhanced user experience with effective color schemes.
 
-# install client dependencies
--> cd client
-->npm install
+## Contributors
 
-# Run both Express & React from root (-> cd ..)
-
--> npm run dev
-app starts on port _http://localhost:3000_
-
+### 1. Srajal Sawner (Team Leader)
+- Set up the backend architecture.
+- Designed the UI/UX frontend of the website with a glassmorphism style and effective color schemes.
+- Led the development team in creating and implementing the DevConnector project.
